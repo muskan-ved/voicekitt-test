@@ -11,32 +11,29 @@ export const Style = {
   },
 
   labelDivStyle: {
-    textAlign: "center",
-    margin: " 6% auto",
-    maxWidth: "500px",
-    maxHeight: "60%",
-    overflow: "auto",
+    textAlign: "center !important",
+    margin: " 6% auto !important",
+    maxWidth: "500px !important",
+    maxHeight: "60% !important",
+    overflow: "auto !important",
   },
 
   labelWelcomeTextStyle: {
     color: "#fff",
-    wordWrap: "break-word",
     textAlign: "center",
-    padding: "5px",
   },
 
   labelTranscriptTextStyle: {
     color: "#fff",
-    wordWrap: "break-word",
-    textAlign: "justify",
+    wordWrap: "break-word !important",
+    textAlign: "justify !important",
+    whiteSpace: "wrap",
     padding: "5px",
   },
 
   labelTextStyle: {
     color: "#9b9c9da3",
-    wordWrap: "break-word",
     textAlign: "center",
-    padding: "5px",
   },
 
   cardActionStyle: {
