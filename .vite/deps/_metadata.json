@@ -1,0 +1,65 @@
+{
+  "hash": "568c6314",
+  "browserHash": "e0eddd12",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "941786a8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e087a43f",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "00bf3f0c",
+      "needsInterop": false
+    },
+    "regenerator-runtime/runtime": {
+      "src": "../../node_modules/regenerator-runtime/runtime.js",
+      "file": "regenerator-runtime_runtime.js",
+      "fileHash": "a8843f3d",
+      "needsInterop": true
+    },
+    "react-speech-recognition": {
+      "src": "../../node_modules/react-speech-recognition/lib/index.js",
+      "file": "react-speech-recognition.js",
+      "fileHash": "239088a1",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Mic": {
+      "src": "../../node_modules/@mui/icons-material/Mic.js",
+      "file": "@mui_icons-material_Mic.js",
+      "fileHash": "bf253273",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SquareSharp": {
+      "src": "../../node_modules/@mui/icons-material/SquareSharp.js",
+      "file": "@mui_icons-material_SquareSharp.js",
+      "fileHash": "17ce9486",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-OTY6O57J": {
+      "file": "chunk-OTY6O57J.js"
+    },
+    "chunk-XCH4UNFR": {
+      "file": "chunk-XCH4UNFR.js"
+    },
+    "chunk-OSL3A7XV": {
+      "file": "chunk-OSL3A7XV.js"
+    },
+    "chunk-2PA4WPI3": {
+      "file": "chunk-2PA4WPI3.js"
+    },
+    "chunk-ROME4SDB": {
+      "file": "chunk-ROME4SDB.js"
+    }
+  }
+}
